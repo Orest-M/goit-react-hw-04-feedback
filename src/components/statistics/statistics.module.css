@@ -1,0 +1,8 @@
+.statistics__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 18px;
+  padding: 0;
+}

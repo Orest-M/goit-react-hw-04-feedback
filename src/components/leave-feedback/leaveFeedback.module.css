@@ -1,0 +1,12 @@
+.feedback__list {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  padding: 0;
+}
+
+.feedback__btn {
+  padding: 5px 13px;
+  border-radius: 5px;
+  cursor: pointer;
+}
